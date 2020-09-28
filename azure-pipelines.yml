@@ -14,5 +14,5 @@ steps:
 - script: yarn install
   displayName: 'run yarn install'
 
-- script: yarn android
-  displayName: 'run yarn android'
+- script: yarn ios
+  displayName: 'run yarn ios'
