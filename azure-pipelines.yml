@@ -7,7 +7,7 @@ trigger:
 - azure-pipelines
 
 pool:
-  vmImage: 'ubuntu-latest'
+  vmImage: 'macOS-10.14'
 
 steps:
 
