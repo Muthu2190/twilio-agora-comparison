@@ -2,7 +2,7 @@
 
 ## Before you start
 
-- make sure you have react native installed and ready to go
+- make sure you have react native installed and ready to goo
 
 ## First
 
